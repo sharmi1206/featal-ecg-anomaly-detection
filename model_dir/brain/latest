@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/shachatt1/PycharmProjects/IOTSimulation/featal-ecg-anomaly-detection/model_dir/brain/variables.dat"
+all_model_checkpoint_paths: "/Users/shachatt1/PycharmProjects/IOTSimulation/featal-ecg-anomaly-detection/model_dir/brain/variables.dat"
