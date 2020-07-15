@@ -1,2 +1,2 @@
-# featal-ecg-anomaly-detection
+# fetal-ecg-anomaly-detection
 Fetus Anomaly detection using Variational Auto Encoder
